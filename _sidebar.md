@@ -17,3 +17,6 @@
 - Plugins
   - [WorldEdit](plugins/worldedit.md)
   - [GroupManager](plugins/groupmanager.md)
+
+- Github
+  - [在线编辑](github/modifyit.md)
