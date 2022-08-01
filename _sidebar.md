@@ -7,7 +7,6 @@
 
 - CitiZons Creative
   - [简介](citizons-creative/introduction.md)
-  - [建设建议](citizons-creative/player-manual.md)
   - [建设须知](citizons-creative/construction-info.md)
   
 - CitiZons Survival
